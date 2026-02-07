@@ -75,7 +75,7 @@ job-portal/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/job-portal.git
+git clone https://github.com/Avi0221/JOB-Portal
 cd job-portal
 ```
 
@@ -143,7 +143,7 @@ Follow these steps to contribute properly:
 ### Step 1 — Clone Repo
 
 ```bash
-git clone repo-link
+git clone https://github.com/Avi0221/JOB-Portal
 ```
 
 ### Step 2 — Create New Branch
