@@ -113,7 +113,7 @@ function Login() {
           </form>
 
           <div className="link">
-            New user? <Link to="/register">Register</Link>
+            New user? <Link to="/signUp">Register</Link>
           </div>
         </div>
       </div>
